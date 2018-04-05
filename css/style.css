@@ -1,0 +1,72 @@
+
+
+header{
+	font-family: Aqua Grotesque;
+	font-size: 60px;
+	text-align: center;
+	color:white;
+	background: url(../images/background.jpg);
+	background-size:cover;
+	width: 1250px;
+	height:200px;
+	border: 1px solid white;
+
+
+	
+}
+ 
+	ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FBBD8A;
+    font-family:Aqua Grotesque;
+    font-style:15px;
+}
+
+li {
+    float:left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: left;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #EFD203;
+
+}
+
+article{
+font-family: Aqua Grotesque;
+border-style: dashed;
+border-color: #EFD203; 
+text-align: center;
+padding-top: -205px;
+padding-bottom:-205px;
+border-height: 5px;
+border-width: 9px;
+margin-right: 20px;
+margin-left: 20px;
+
+ }
+
+ 
+
+
+footer{
+	font-family: Aqua Grotesque;
+	font-size: 15px;
+	text-align: left;
+	color: white;
+	padding:5px;
+	background-color:#EFD203;
+	margin:0;
+	overflow: hidden;
+	padding-left: 10px;
+}
